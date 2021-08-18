@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+cat banner.txt
 if [[ $1 != "NoColor" && $2 != "NoColor" ]]; then
     Color_R=$(tput setaf 9)
     Color_G=$(tput setaf 10)
