@@ -14,4 +14,5 @@ $ sudo chmod +x Cowboy.sh
 $ ./Cowboy.sh
 ```
 U can also add it to alias
+
 Enjoy!
