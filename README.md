@@ -1,5 +1,6 @@
 # BebopGo
 A Shell To Watch Cowboy Bebop Fast
+
 A Shell For Fun
 ## Requirement
 - Linux Environment
